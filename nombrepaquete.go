@@ -2,7 +2,12 @@ package nombrepaquete
 
 import "fmt"
 
-func nomnbreFuncion() {
+func NombreFuncion() {
+	fmt.Println("Hello World")
+
+}
+
+func nombreFuncion2() {
 	fmt.Println("Hello World")
 
 }
